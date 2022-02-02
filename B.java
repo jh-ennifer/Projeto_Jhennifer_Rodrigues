@@ -1,3 +1,5 @@
+package Projeto_Jhennifer_Rodrigues;
+
 public class B {
     private int B1;
     private float B2;
